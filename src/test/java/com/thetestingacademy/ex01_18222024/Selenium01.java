@@ -14,7 +14,6 @@ public class Selenium01 {
         // Selenium 4
         FirefoxDriver driver = new FirefoxDriver();
         driver.get("https://app.vwo.com");
-
     }
 
 
