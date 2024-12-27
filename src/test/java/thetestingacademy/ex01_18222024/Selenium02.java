@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex01_18222024;
+package thetestingacademy.ex01_18222024;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;

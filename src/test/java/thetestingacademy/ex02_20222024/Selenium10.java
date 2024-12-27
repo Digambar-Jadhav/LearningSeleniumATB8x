@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex02_20222024;
+package thetestingacademy.ex02_20222024;
 
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
