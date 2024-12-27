@@ -123,7 +123,47 @@
       <option name="project" value="LOCAL" />
       <updated>1735293725906</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <option name="closed" value="true" />
+      <created>1735294258253</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735294258253</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <option name="closed" value="true" />
+      <created>1735294441254</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735294441254</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1735294701387</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735294701387</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <option name="closed" value="true" />
+      <created>1735294876585</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735294876585</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test">
+      <option name="closed" value="true" />
+      <created>1735294935056</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735294935056</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test0002" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/thetestingacademy/SeleniumProjectTask001_23122024/SeleniumProjectTask001.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium01.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium02.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium03.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium04.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium05.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium06.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium07.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium08.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium09.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/adblock.crx&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium10.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium11.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium12.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium13.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium14.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium15.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/adblock.crx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/thetestingacademy/SeleniumProjectTask001_23122024/SeleniumProjectTask001.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium01.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium02.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium03.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium04.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium05.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium06.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium07.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium08.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium09.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/adblock.crx&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium10.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium11.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium12.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium13.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium14.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium15.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/adblock.crx" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
