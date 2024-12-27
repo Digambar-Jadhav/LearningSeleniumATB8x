@@ -81,6 +81,19 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="SeleniumPractice001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thetestingacademy.SeleniumPractice.SeleniumPractice001" />
+      <module name="LearningSeleniumATB8xDJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thetestingacademy.SeleniumPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="LearningSeleniumATB8x" />
       <method v="2">
@@ -92,6 +105,11 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SeleniumPractice001" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -310,7 +328,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735300783886</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="test">
+      <option name="closed" value="true" />
+      <created>1735301465830</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1735301465830</updated>
+    </task>
+    <task id="LOCAL-00028" summary="test">
+      <option name="closed" value="true" />
+      <created>1735301529804</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1735301529804</updated>
+    </task>
+    <task id="LOCAL-00029" summary="test">
+      <option name="closed" value="true" />
+      <created>1735301577301</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1735301577301</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
