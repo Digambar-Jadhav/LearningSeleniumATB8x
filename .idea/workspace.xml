@@ -11,25 +11,61 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Digambar-Jadhav&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Digambar-Jadhav/LearningSeleniumATB8x.git&quot;,
+    &quot;accountId&quot;: &quot;afe67ec6-414e-4d87-94c9-a3c527dc2702&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2qnK59CGHsnN7iL2ne2Krlbq8zb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LearningSeleniumATB8x" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LearningSeleniumATB8x" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +75,47 @@
       <option name="presentableId" value="Default" />
       <updated>1735292713087</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test0002">
+      <option name="closed" value="true" />
+      <created>1735292915030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735292915030</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test0002">
+      <option name="closed" value="true" />
+      <created>1735292993169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735292993169</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/thetestingacademy/SeleniumProjectTask001_23122024/SeleniumProjectTask001.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium01.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium02.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium03.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium04.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium05.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium06.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium07.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium08.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium09.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/adblock.crx&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium10.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium11.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium12.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium13.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium14.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium15.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/adblock.crx">
+      <option name="closed" value="true" />
+      <created>1735293178250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735293178250</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test0002" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/thetestingacademy/SeleniumProjectTask001_23122024/SeleniumProjectTask001.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium01.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium02.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium03.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium04.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium05.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium06.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium07.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium08.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium09.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/adblock.crx&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium10.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium11.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium12.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium13.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium14.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium15.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/adblock.crx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/thetestingacademy/SeleniumProjectTask001_23122024/SeleniumProjectTask001.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium01.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium02.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium03.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium04.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium05.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium06.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium07.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium08.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium09.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/adblock.crx&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium10.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium11.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium12.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium13.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium14.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium15.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/adblock.crx" />
   </component>
 </project>
