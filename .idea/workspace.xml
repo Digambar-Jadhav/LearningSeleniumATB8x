@@ -10,6 +10,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
+  </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
@@ -19,6 +29,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -32,11 +43,16 @@
     &quot;accountId&quot;: &quot;afe67ec6-414e-4d87-94c9-a3c527dc2702&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2qnK59CGHsnN7iL2ne2Krlbq8zb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,8 +75,10 @@
     ]
   }
 }</component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/bt/_6l87gcn6vgfbzvc3kgxk77w0000gn/T/qodana_output/qodana.sarif.json" reportGuid="39bdf6ce-ee2a-42f2-b1c1-0dfb519d8454" reportId="LearningSeleniumATB8x/qodana/2024-12-27" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
@@ -212,7 +230,87 @@
       <option name="project" value="LOCAL" />
       <updated>1735298943476</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="test">
+      <option name="closed" value="true" />
+      <created>1735299089475</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735299089475</updated>
+    </task>
+    <task id="LOCAL-00018" summary="test">
+      <option name="closed" value="true" />
+      <created>1735299534530</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735299534530</updated>
+    </task>
+    <task id="LOCAL-00019" summary="test">
+      <option name="closed" value="true" />
+      <created>1735299556789</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735299556789</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Test">
+      <option name="closed" value="true" />
+      <created>1735299691008</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735299691008</updated>
+    </task>
+    <task id="LOCAL-00021" summary="test">
+      <option name="closed" value="true" />
+      <created>1735299741239</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735299741239</updated>
+    </task>
+    <task id="LOCAL-00022" summary="test">
+      <option name="closed" value="true" />
+      <created>1735300010618</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1735300010618</updated>
+    </task>
+    <task id="LOCAL-00023" summary="test">
+      <option name="closed" value="true" />
+      <created>1735300082876</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1735300082876</updated>
+    </task>
+    <task id="LOCAL-00024" summary="test">
+      <option name="closed" value="true" />
+      <created>1735300127885</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1735300127885</updated>
+    </task>
+    <task id="LOCAL-00025" summary="test">
+      <option name="closed" value="true" />
+      <created>1735300163780</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1735300163780</updated>
+    </task>
+    <task id="LOCAL-00026" summary="test">
+      <option name="closed" value="true" />
+      <created>1735300783886</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1735300783886</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +327,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test0002" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/thetestingacademy/SeleniumProjectTask001_23122024/SeleniumProjectTask001.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium01.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium02.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium03.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium04.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium05.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium06.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium07.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium08.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/Selenium09.java&#10;#&#9;src/test/java/thetestingacademy/ex01_18222024/adblock.crx&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium10.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium11.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium12.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium13.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium14.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/Selenium15.java&#10;#&#9;src/test/java/thetestingacademy/ex02_20222024/adblock.crx" />
+    <MESSAGE value="Test" />
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>

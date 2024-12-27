@@ -24,8 +24,7 @@ public class SeleniumProjectTask001 {
         // AssertJ Assertion
         assertThat(driver.getTitle()).isNotBlank().isNotEmpty().isEqualTo("CURA Healthcare Service");
         assertThat(driver.getCurrentUrl()).isEqualTo("https://katalon-demo-cura.herokuapp.com/");
-
-//Step1: Click on MakeAppointment Button
+        //Step1: Click on MakeAppointment Button
         //<a id="btn-make-appointment"
         // href="./profile.php#login"
         // class="btn btn-dark btn-lg">Make Appointment</a>
